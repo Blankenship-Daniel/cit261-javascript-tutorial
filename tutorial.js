@@ -8,3 +8,5 @@ function scope() {
 scope();
 
 console.log(a);
+
+// adding more features
