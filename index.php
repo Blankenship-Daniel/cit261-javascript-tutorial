@@ -10,5 +10,6 @@
          This is a tutorial page.
       </p>
    </body>
-   <script type="text/javascript" src="arrays.js"></script>
+   <!-- <script type="text/javascript" src="arrays.js"></script> -->
+   <script type="text/javascript" src="associative_arrays.js"></script>
 </html>
