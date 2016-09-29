@@ -10,5 +10,5 @@
          This is a tutorial page.
       </p>
    </body>
-   <script type="text/javascript" src="tutorial.js"></script>
+   <script type="text/javascript" src="arrays.js"></script>
 </html>
